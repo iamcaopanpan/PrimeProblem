@@ -1,0 +1,5 @@
+style1 = 'font-family:微软雅黑; font-size:16px; '
+style_output = 'font-family:Courier New; font-size:20px; color:green'
+style_btn = 'font-family:Microsoft YaHei UI; font-size:12pt; height:30px'
+style_input1 = 'font-family:Microsoft YaHei UI; font-size:12pt; height:50px'
+style_input2 = 'font-family:Courier New; font-size:18pt; height:50px; width:30px; color:red'
